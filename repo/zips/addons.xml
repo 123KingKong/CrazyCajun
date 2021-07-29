@@ -20,7 +20,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.breezz19wizard" name="[COLORred]Breezz 19 Wizard[/COLOR]" version="1.0.1" provider-name="Breezz">
+<addon id="plugin.program.CrazyCajun19Wizard" name="[COLORred]Crazy Cajun 19 Wizard[/COLOR]" version="1.0" provider-name="123KingKong">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -29,8 +29,8 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">BREEZZ 19 WIZARD</summary>
-		<description lang="en_GB">breezz new kodi 19 wizard</description>
+		<summary lang="en_GB">CRAZY CAJUN 19 WIZARD</summary>
+		<description lang="en_GB">crazy cajun new kodi 19 wizard</description>
 		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
 		<language>en</language>
 		<platform>all</platform>
