@@ -5,10 +5,10 @@ from datetime import datetime
 addon_id = xbmcaddon.Addon().getAddonInfo('id')
 
 '''#####-----Build File-----#####'''
-buildfile = 'http://slamiousbuilds.com/blds2/builds2.json'
+buildfile = 'http://CHANGEME'
 
 '''#####-----Notifications File-----#####'''
-notify_url  = 'http://slamiousproject.com/wzrd/notifyslam19.txt'
+notify_url  = 'http://slamiousproject.com/wzrd/notify19.txt'
 
 '''#####-----Excludes-----#####'''
 EXCLUDES  = [addon_id, 'packages', 'Addons33.db', 'kodi.log', 'script.module.certifi', 'script.module.chardet', 'script.module.idna', 'script.module.requests', 'script.module.urllib3']

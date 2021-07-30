@@ -12,8 +12,8 @@
 			<description>Image</description>
 			<width>1100</width>
 			<height>600</height>
-			<texture colordiffuse="blue" >black1.png</texture>
-			<bordertexture border="2" colordiffuse="black">white.png</bordertexture>
+			<texture>black.png</texture>
+			<bordertexture border="2" colordiffuse="white">white.png</bordertexture>
 			<bordersize>10</bordersize>
 		</control>
 			<control type="image">
@@ -22,16 +22,16 @@
 			<description>Team</description>
 			<width>391</width>
 			<height>100</height>
-			<texture colordiffuse="blue"></texture>
+			<texture>team.png</texture>
 			<!-- <bordersize>5</bordersize> -->
 		</control>
-		<control type="image">
-			<description>header</description>
+		<control type="textbox">
+			<description>text</description>
 			<top>11</top>
 			<left>13</left>
 			<width>388</width>
 			<height>100</height>
-			<texture>slam3.png</texture>
+			<label>By Slam & BYB</label> 			#Add your team name here
 			<font>font60</font>
 			<align>center</align>
 			<aligny>center</aligny>
@@ -39,22 +39,22 @@
 			<shadowcolor>black</shadowcolor>
 		</control>
 		<control type="image">
-			<left>40</left>
-			<top>135</top>
+			<left>5</left>
+			<top>107</top>
 			<description>Icon</description>
-			<width>335</width>
-			<height>355</height>
+			<width>405</width>
+			<height>395</height>
 			<texture>test.png</texture> 			#Add you icon here
 			<bordersize>5</bordersize>
 		</control>
 		<control type="button" id="302">
-			<left>20</left>
-			<top>500</top>
+			<left>12</left>
+			<top>498</top>
 			<description>Close</description>
-			<width>100</width>
-			<height>50</height>
-			<texturefocus colordiffuse="deepskyblue">close2.png</texturefocus>
-            <texturenofocus colordiffuse="white">close2.png</texturenofocus>
+			<width>390</width>
+			<height>92</height>
+			<texturefocus colordiffuse="white">close.png</texturefocus>
+            <texturenofocus colordiffuse="grey">close.png</texturenofocus>
 			<bordersize>5</bordersize>
 			<onleft>301</onleft>
       <onright>301</onright>
@@ -76,7 +76,7 @@
 			<description>text</description>
 			<top>11</top>
 			<left>425</left>
-			<width>630</width>
+			<width>650</width>
 			<height>550</height>
 			<font>font52_title</font>
 			<align>left</align>
