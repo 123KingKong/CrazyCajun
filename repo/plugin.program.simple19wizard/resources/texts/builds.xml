@@ -1,0 +1,13 @@
+<builds>
+
+  <build>
+	<name>Crazy Cajun Lite</name>
+	<version>0.1</version>
+	<url>https://archive.org/download/crazycajunlite/crazycajunlite.zip</url>
+	<icon>https://i.imgur.com/CPKx7NI.jpeg</icon>
+	<fanart>https://i.imgur.com/CPKx7NI.jpeg</fanart>
+	<description>Crazy Cajun Lite</description>
+	<preview>test</preview>
+  </build>
+  
+</builds>
