@@ -1,9 +1,9 @@
 <builds>
 
   <build>
-	<name>Build 1</name>
+	<name>My Build</name>
 	<version>1.0</version>
-	<url>https://</url>
+	<url>https://archive.org/download/kodi_20210729/Kodi.rar</url>
 	<icon>https://</icon>
 	<fanart>https://</fanart>
 	<description>1st build</description>
