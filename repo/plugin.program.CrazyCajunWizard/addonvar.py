@@ -5,7 +5,7 @@ from datetime import datetime
 addon_id = xbmcaddon.Addon().getAddonInfo('id')
 
 '''#####-----Build File-----#####'''
-buildfile = 'https://github.com/123KingKong/CrazyCajun/blob/master/repo/plugin.program.CrazyCajunWizard/resources/texts/builds.xml'
+buildfile = 'https://raw.githubusercontent.com/123KingKong/CrazyCajun/master/repo/plugin.program.CrazyCajunWizard/resources/texts/builds.xml'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://slamiousproject.com/wzrd/notify19.txt'
