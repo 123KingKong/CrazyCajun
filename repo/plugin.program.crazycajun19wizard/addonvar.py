@@ -7,7 +7,7 @@ from urllib.parse import parse_qs
 addon_id = xbmcaddon.Addon().getAddonInfo('id')
 
 '''#####-----Build File-----#####'''
-buildfile = 'http://breezz1.com/wizard/builds.xml'
+buildfile = 'https://github.com/123KingKong/CrazyCajun/blob/master/repo/plugin.program.crazycajun19wizard/resources/builds.xml'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://'
