@@ -1,0 +1,13 @@
+<builds>
+
+  <build>
+	<name>Crazy Lite Build</name>
+	<version>0.1</version>
+	<url>https://archive.org/download/crazy-lite-build/Crazy%20Lite%20Build.zip</url>
+	<icon></icon>
+	<fanart></fanart>
+	<description>My First 19 Build</description>
+	<preview></preview>
+  </build>
+  
+</builds>
