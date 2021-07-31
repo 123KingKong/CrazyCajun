@@ -10,4 +10,14 @@
 	<preview>test</preview>
   </build>
   
+  <build>
+    <name>King Kong</name>
+	<version>1.0</version>
+	<url>https://www.dropbox.com/s/6pcibschd81fvpj/KingKong.zip?dl=1</url>
+	<icon>https://i.imgur.com/CPKx7NI.jpeg</icon>
+	<fanart>https://i.imgur.com/CPKx7NI.jpeg</fanart>
+	<description>Offical King Kong Build</description>
+	<preview></preview>
+  </build>	
+  
 </builds>
